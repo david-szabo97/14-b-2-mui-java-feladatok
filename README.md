@@ -9,3 +9,6 @@
 ## [2.1](exercise2/task1)
 ## [2.2](exercise2/task2)
 ## [2.3](exercise2/task3)
+
+# [3](exercise3)
+## [3.1](exercise3/task1)
