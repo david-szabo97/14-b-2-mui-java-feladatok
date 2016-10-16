@@ -12,3 +12,4 @@
 
 # [3](exercise3)
 ## [3.1](exercise3/task1)
+## [3.2](exercise3/task2)
