@@ -7,3 +7,4 @@
 
 # [2](exercise2)
 ## [2.1](exercise2/task1)
+## [2.2](exercise2/task2)
