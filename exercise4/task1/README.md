@@ -7,7 +7,7 @@ Majd hozzatok létre két öröklő osztályt:
 1. `Rectangle`, amelynek van két adattagja: `width`, `height`. Ezeket lehessen megadni **konstruktorral**.
 2. `Circle`, ennek egy adattagja van: `radius`. Ezt lehessen megadni **konstruktorral**. 
 
-Az adattagok, metódusok, osztályok legyenek publikusak. Mindkét osztály **írja felül** a metódusokat `area()` és `perimeter()` és adjanak vissza egy nem egész számot, amely a terület (`area()`) és a kerület (`perimeter()`).
+Az adattagok, metódusok, osztályok legyenek **publikusak**. Mindkét osztály **írja felül** a metódusokat `area()` és `perimeter()` és adjanak vissza egy nem egész számot, amely a terület (`area()`) és a kerület (`perimeter()`).
 
 ## Segédlet
 ```java
