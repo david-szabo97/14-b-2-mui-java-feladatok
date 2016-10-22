@@ -14,7 +14,7 @@ Mindegyiket külön csomagba tegyétek:
 - exercise1.task2 -> 1.2
 - exercise2.task1 -> 2.1
 
-Mindengyikben egy külön Main osztály.
+Mindegyikben egy külön Main osztály.
 
 exercise1.task1.Main -> belépőpont az 1.1. feladathoz.
 
