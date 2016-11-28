@@ -19,21 +19,26 @@ Mindegyikben egy külön Main osztály.
 exercise1.task1.Main -> belépőpont az 1.1. feladathoz.
 
 
-# [1](exercise1)
+# [1](exercise1 / Számok bekérése)
 ## [1.1](exercise1/task1)
 ## [1.2](exercise1/task2)
 ## [1.3](exercise1/task3)
 
-# [2](exercise2)
+# [2](exercise2 / Számok bekérése)
 ## [2.1](exercise2/task1)
 ## [2.2](exercise2/task2)
 ## [2.3](exercise2/task3)
 
-# [3](exercise3)
+# [3](exercise3 / Gyakorlás karakterláncokkal)
 ## [3.1](exercise3/task1)
 ## [3.2](exercise3/task2)
 ## [3.3](exercise3/task3)
 ## [3.4](exercise3/task4)
 
-# [4](exercise4)
+# [4](exercise4 / Osztályok)
 ## [4.1](exercise4/task1)
+## [4.2](exercise4/task2)
+
+# [5](exercise4 / Műveletek fájllal)
+## [5.1](exercise5/task1)
+## [5.2](exercise5/task2)
