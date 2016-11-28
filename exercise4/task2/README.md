@@ -13,7 +13,7 @@ Hozzatok létre egy `MathHelper` osztályt. Ez az osztály néhány egyszerű ma
 - **median**
 	- Visszaadja a **mediánt** (float). Rendezett tömbböl a középső elem, ha az elemek száma páros akkor a két középső érték átlagát.
 - **modus**
-	- BÓNUSZ FELADAT: Visszaadja a **legtöbbször előforduló értéket** a tömbböl.
+	- BÓNUSZ FELADAT: Visszaadja a **legtöbbször előforduló értéket** a tömbböl. (Ha több érték is ugyanannyiszor fordul elő, akkor elég a legelsőt visszaadni.)
 
 Minden metódus publikus. Paraméterként mindegyik egy egész szám tömböt kap.
 
